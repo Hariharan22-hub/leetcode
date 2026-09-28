@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:33:37.341Z",
+  "lastUpdated": "2026-09-28T04:33:40.602Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -26,17 +26,17 @@
           "questionId": "2",
           "title": "Add Two Numbers",
           "titleSlug": "add-two-numbers",
-          "difficulty": "Medium",
+          "difficulty": "Easy",
           "tags": [
             "Linked List",
             "Math",
             "Recursion"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1790570017341,
+            "891011121314157563421            if(l1!=null){                sum +=l1.val;                l1=l1.next;            }            if (l2 != null) {                sum += l2.val;                l2 = l2.next;            }            int sum=carry;        int carry=0;        while(l1!=null || l2!=null || carry!=0){        listnode dummy = new listnode();        listnode cur=dummy;    public listnode addtwonumbers(listnode l1, listnode l2) {class solution {": {
+              "syncedAt": 1790570020602,
               "runtime": "1 ms",
-              "memory": "46.4 MB",
+              "memory": "46.42 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
