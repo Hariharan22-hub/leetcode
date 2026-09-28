@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:34:29.109Z",
+  "lastUpdated": "2026-09-28T04:34:52.741Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,10 +15,254 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790570069109,
+              "syncedAt": 1790570092741,
               "runtime": "45 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "1 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "article-views-i": {
+          "questionId": "1148",
+          "title": "Article Views I",
+          "titleSlug": "article-views-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790570092741,
+              "runtime": "378 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
+            }
+          }
+        },
+        "decode-ways-ii": {
+          "questionId": "639",
+          "title": "Decode Ways II",
+          "titleSlug": "decode-ways-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "10 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/String/Decode Ways II/"
+            }
+          }
+        },
+        "reverse-string-ii": {
+          "questionId": "541",
+          "title": "Reverse String II",
+          "titleSlug": "reverse-string-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String II/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "5 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "136 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "66 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "5 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "17 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "3 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "valid-triangle-number": {
+          "questionId": "611",
+          "title": "Valid Triangle Number",
+          "titleSlug": "valid-triangle-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "27 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Valid Triangle Number/"
+            }
+          }
+        },
+        "string-compression": {
+          "questionId": "443",
+          "title": "String Compression",
+          "titleSlug": "string-compression",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Two Pointers/String Compression/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790570092741,
+              "runtime": "1 ms",
+              "memory": "69.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
             }
           }
         }
