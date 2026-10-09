@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-09T05:01:04.533Z",
+  "lastUpdated": "2026-10-09T05:02:06.678Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -287,6 +287,26 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "12345678910111213class solution {    public list<list<string>> groupanagrams(string[] strs) {        map<string,list<string>> map = new hashmap<>();        for(string s : strs){            char [] c = s.tochararray();            arrays.sort(c);            string key = new string(c);            map.putifabsent(key,new arraylist<>());            map.get(key).add(s);        }        return new arraylist<>(map.values());    }}": {
+              "syncedAt": 1791522126678,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
             }
           }
         }
