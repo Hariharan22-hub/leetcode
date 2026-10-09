@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-09T05:02:06.678Z",
+  "lastUpdated": "2026-10-09T05:02:22.929Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -290,23 +290,20 @@
             }
           }
         },
-        "group-anagrams": {
-          "questionId": "49",
-          "title": "Group Anagrams",
-          "titleSlug": "group-anagrams",
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
           "difficulty": "Easy",
           "tags": [
-            "Array",
-            "Hash Table",
-            "String",
-            "Sorting"
+            "Linked List"
           ],
           "solutions": {
-            "12345678910111213class solution {    public list<list<string>> groupanagrams(string[] strs) {        map<string,list<string>> map = new hashmap<>();        for(string s : strs){            char [] c = s.tochararray();            arrays.sort(c);            string key = new string(c);            map.putifabsent(key,new arraylist<>());            map.get(key).add(s);        }        return new arraylist<>(map.values());    }}": {
-              "syncedAt": 1791522126678,
+            "123456789101112131415/** * definition for singly-linked list. * public class listnode { *     int val; *     listnode next; *     listnode() {} *     listnode(int val) { this.val = val; } *     listnode(int val, listnode next) { this.val = val; this.next = next; } * } */class solution {    public listnode deleteduplicates(listnode head) {            }}": {
+              "syncedAt": 1791522142929,
               "runtime": "N/A",
               "memory": "N/A",
-              "githubPath": "LeetCode/Array/Group Anagrams/"
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
             }
           }
         }

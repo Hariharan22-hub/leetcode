@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Hariharan_PV?theme=tokyonight&show=graph,recent&v=1791522126734" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Hariharan_PV?theme=tokyonight&show=graph,recent&v=1791522142931" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,7 +19,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
-| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 611 | [Valid Triangle Number](./Array/Valid%20Triangle%20Number/) | Medium |
 
@@ -56,6 +55,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 
 </details>
 
