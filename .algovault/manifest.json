@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-09T05:00:19.685Z",
+  "lastUpdated": "2026-10-09T05:01:04.533Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -269,6 +269,24 @@
               "runtime": "1 ms",
               "memory": "69.1 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "12345class solution {    public int removeduplicates(int[] nums) {            }}": {
+              "syncedAt": 1791522064533,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
         }
