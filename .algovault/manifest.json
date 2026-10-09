@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-09T04:59:40.555Z",
+  "lastUpdated": "2026-10-09T05:00:19.685Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -130,6 +130,12 @@
               "runtime": "136 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
+            },
+            "123456789101112131415class solution {    public boolean isvalid(string s) {        while(s.length()!=0){            if(s.contains(\"()\")){                s=s.replace(\"()\",\"\");            }            else if(s.contains(\"{}\")){                s=s.replace(\"{}\",\"\");            }            else if(s.contains(\"[]\")){                s = s.replace(\"[]\",\"\");            }            else            return false;        }": {
+              "syncedAt": 1791522019685,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
             }
           }
         },
@@ -200,9 +206,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1791521980555,
+              "syncedAt": 1790570092741,
               "runtime": "3 ms",
-              "memory": "46.1 MB",
+              "memory": "46.3 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
             }
           }
